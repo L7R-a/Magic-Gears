@@ -22,8 +22,8 @@ Magic Gears is an RPG by turns videogame built using Unity, C#. It is a game whe
   - Turns: Click on the buttons for each action
 
 # Videos 🎥
-Showcasing the hub portion: https://www.youtube.com/watch?v=iTMtXArZbCc&ab_channel=DiegoLaRosa
-Showcasing the combat portion: https://www.youtube.com/watch?v=MvfKmcj1Ay4&ab_channel=DiegoLaRosa
+- Showcasing the hub portion: https://www.youtube.com/watch?v=iTMtXArZbCc&ab_channel=DiegoLaRosa
+- Showcasing the combat portion: https://www.youtube.com/watch?v=MvfKmcj1Ay4&ab_channel=DiegoLaRosa
 
 # Download ✅
 https://drive.google.com/drive/folders/1hOAaPn5srSPBzYndACkw2haWviQZEGuk
